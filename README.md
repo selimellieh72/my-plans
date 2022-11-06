@@ -19,20 +19,20 @@
 
 ## Key Features
 * See all your plans <br/>
-  <img width='30%' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-05%20at%2023.31.58.png"/>
-  <img width='30%' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-05%20at%2023.56.12.png"/>
-  <img width='30%' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-05%20at%2023.57.33.png"/>
+  <img width='264px' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-05%20at%2023.31.58.png"/>
+  <img width='264px' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-05%20at%2023.56.12.png"/>
+  <img width='264px' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-05%20at%2023.57.33.png"/>
   - Completed plans have a green checkboxs, while uncompleted ones have red checkboxes
   - Click on the top right menu to see completed plans only
 * Add a plan <br/>
-  <img width='30%' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-05%20at%2023.42.31.png"/>
-    <img width='30%' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-05%20at%2023.29.10.png"/>
+  <img width='264px' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-05%20at%2023.42.31.png"/>
+    <img width='264px' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-05%20at%2023.29.10.png"/>
     - The plan will also be added to the local database!
     - Click the yellow floating action button in order to add a plan
   - You can enter several objectives, that will help you achieve the plan
 * Edit Plan <br/>
-    <img width='30%' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-06%20at%2000.04.32.png"/>
-       <img width='30%' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-06%20at%2000.04.45.png"/>
+    <img width='264px' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-06%20at%2000.04.32.png"/>
+       <img width='264px' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-06%20at%2000.04.45.png"/>
         <br/>
   - Inside a plan, click the top right menu in order to edit the plan
   - You can also delete the plan entirely from the database
@@ -40,7 +40,7 @@
   
 
 * Mark objective as complete <br/>
-    <img width='30%' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-06%20at%2000.00.07.png"/>
+    <img width='264px' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-06%20at%2000.00.07.png"/>
     <br/>
 
   - Keep pressing on an objective to mark it as green
