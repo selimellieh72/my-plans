@@ -22,7 +22,7 @@
   <img width='264px' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-05%20at%2023.31.58.png"/>
   <img width='264px' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-05%20at%2023.56.12.png"/>
   <img width='264px' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-05%20at%2023.57.33.png"/>
-  - Completed plans have a green checkboxs, while uncompleted ones have red checkboxes
+  - Completed plans have a green checkboxes, while uncompleted ones have red checkboxes
   - Click on the top right menu to see completed plans only
 * Add a plan <br/>
   <img width='264px' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-05%20at%2023.42.31.png"/>
@@ -43,7 +43,7 @@
     <img width='264px' height='528px' src="https://github.com/selimellieh72/my-plans/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-11-06%20at%2000.00.07.png"/>
     <br/>
 
-  - Keep pressing on an objective to mark it as green
+  - Keep pressing on an objective to mark it as completed
   - The objective will appear as green
   - The progress bar will increase toward the goal
   - When all objectives are met, the plan will be marked as complete!
